@@ -71,7 +71,7 @@ through collaboration between academia and industry.
 
 ---
 
-## 📫 Collaboration
+## Collaboration
 Email: contact@stas-rg.com  
 Open for research collaboration, student projects, and industry partnerships
 
