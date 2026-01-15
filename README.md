@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/stas-rg-logo.png" alt="STAS-RG Logo" width="160"/>
+  <img src="stas.png" alt="STAS-RG Logo" width="160"/>
 </p>
 
 <h1 align="center">STAS-RG</h1>
